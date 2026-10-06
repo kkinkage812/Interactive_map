@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "lat": "35.738694190414634",
+    "long": "139.88976152777175",
+    "population": "38 million",
+    "fact": "Shibuya Crossing is the busiest pedestrian intersection in the world"
+  },
+  {
+    "name": "Kyiv",
+    "country": "Ukraine",
+    "lat": "50.4501",
+    "long": "30.5234",
+    "population": "3 million",
+    "fact": "Arsenalna is one of the deepest metro stations in the world (105 m)"
+  },
+  {
+    "name": "Gent",
+    "country": "Belgium",
+    "lat": "51.0543",
+    "long": "3.7174",
+    "population": "265 thousand",
+    "fact": "The Gravensteen castle in the city centre was built in 1180"
+  },
+  {
+    "name": "Oranjestad",
+    "country": "Aruba",
+    "lat": "12.5240",
+    "long": "-70.0270",
+    "population": "30 thousand",
+    "fact": "The capital is named after the Dutch royal House of Orange"
+  },
+  {
+    "name": "New York",
+    "country": "United States",
+    "lat": "40.7128",
+    "long": "-74.0060",
+    "population": "20 million",
+    "fact": "The Statue of Liberty was a gift from France in 1886"
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "lat": "48.8566",
+    "long": "2.3522",
+    "population": "11 million",
+    "fact": "The Eiffel Tower was built for the World's Fair of 1889"
+  },
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "lat": "51.5074",
+    "long": "-0.1278",
+    "population": "9 million",
+    "fact": "The London Underground, opened in 1863, is the oldest metro in the world"
+  },
+  {
+    "name": "Brussels",
+    "country": "Belgium",
+    "lat": "50.8503",
+    "long": "4.3517",
+    "population": "1.2 million",
+    "fact": "The Atomium was built for the World's Fair of 1958"
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "lat": "52.3676",
+    "long": "4.9041",
+    "population": "900 thousand",
+    "fact": "The city has about 1,500 bridges over its canals"
+  },
+  {
+    "name": "Berlin",
+    "country": "Germany",
+    "lat": "52.5200",
+    "long": "13.4050",
+    "population": "3.7 million",
+    "fact": "The Berlin Wall divided the city until it fell in 1989"
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "lat": "41.9028",
+    "long": "12.4964",
+    "population": "2.8 million",
+    "fact": "Vatican City, the smallest country in the world, lies inside Rome"
+  },
+  {
+    "name": "Madrid",
+    "country": "Spain",
+    "lat": "40.4168",
+    "long": "-3.7038",
+    "population": "3.4 million",
+    "fact": "Restaurante Botin (1725) is the oldest restaurant in the world according to Guinness"
+  },
+  {
+    "name": "Cairo",
+    "country": "Egypt",
+    "lat": "30.0444",
+    "long": "31.2357",
+    "population": "22 million",
+    "fact": "The Pyramids of Giza stand at the edge of the city"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "lat": "-22.9068",
+    "long": "-43.1729",
+    "population": "13 million",
+    "fact": "The Christ the Redeemer statue on Corcovado is 30 metres tall"
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "lat": "-33.8688",
+    "long": "151.2093",
+    "population": "5.3 million",
+    "fact": "The Sydney Opera House opened in 1973"
+  },
+  {
+    "name": "Mumbai",
+    "country": "India",
+    "lat": "19.0760",
+    "long": "72.8777",
+    "population": "21 million",
+    "fact": "Mumbai is the home of Bollywood, India's Hindi film industry"
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "lat": "39.9042",
+    "long": "116.4074",
+    "population": "22 million",
+    "fact": "The Forbidden City was the palace of Chinese emperors for almost 500 years"
+  },
+  {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "lat": "41.0082",
+    "long": "28.9784",
+    "population": "15.7 million",
+    "fact": "The city lies on two continents: Europe and Asia"
+  },
+  {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "lat": "19.4326",
+    "long": "-99.1332",
+    "population": "22 million",
+    "fact": "The city was built on a lake and is slowly sinking"
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "lat": "43.6532",
+    "long": "-79.3832",
+    "population": "6.4 million",
+    "fact": "The CN Tower is 553 metres tall"
+  },
+  {
+    "name": "Ilyinogorsk (Brusnichka shop)",
+    "country": "Russia",
+    "lat": "56.234382472535685",
+    "long": "42.93476833595233",
+    "population": "6 thousand",
+    "fact": "Ilyinogorsk is an urban-type settlement in Nizhny Novgorod Oblast, founded in 1970"
+}
+]
