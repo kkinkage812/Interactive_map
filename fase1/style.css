@@ -1,3 +1,35 @@
-#map{
-    height: 65vh;
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #1e1e1e;
+    color: #f0f0f0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.layout-map {
+    display: flex;
+    gap: 20px;
+}
+
+#map {
+    flex: 3;
+    height: 75vh;
+    border: 2px solid #555;
+    border-radius: 12px;
+}
+
+.card-info {
+    flex: 1;
+    background: #2d2d2d;
+    border: 2px solid #555;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+#city-country {
+    color: #aaa;
 }
