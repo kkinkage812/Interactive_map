@@ -1,0 +1,32 @@
+[
+  {
+    "studentName": "Daniel",
+    "school": {
+      "schoolName": "Het Spectrum Gent",
+      "country": "België",
+      "lat": 51.0460,
+      "lng": 3.7122,
+      "fact1": "Secundaire school van Stedelijk Onderwijs Gent",
+      "fact2": "Heette vroeger VIP-school, sinds 2018 Het Spectrum Gent",
+      "fact3": "Ligt aan de Martelaarslaan in de wijk Ekkergem",
+      "fact4": "Biedt praktijkgerichte TSO- en BSO-richtingen aan",
+      "fact5": "Sectoren: personenzorg, office & retail en publiciteit"
+    },
+    "circle": {"radius": 100}
+  },
+  {
+    "studentName": "Leerling 2",
+    "school": {
+      "schoolName": "Oekraïens Fysisch-Mathematisch Lyceum",
+      "country": "Oekraïne",
+      "lat": 50.3799,
+      "lng": 30.4692,
+      "fact1": "Hoort bij de Nationale Taras Sjevtsjenko-universiteit van Kyiv",
+      "fact2": "Specialisatie: fysica, wiskunde, informatica en chemie",
+      "fact3": "Ook astronomie wordt er op hoog niveau gegeven",
+      "fact4": "Het is een internaat: de leerlingen wonen er ook",
+      "fact5": "Een van de 10 beste scholen van Oekraïne volgens de examenresultaten"
+    },
+    "circle": {"radius": 200}
+  }
+]

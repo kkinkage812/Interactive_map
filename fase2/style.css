@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #1e1e1e;
+    color: #f0f0f0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.map-layout {
+    display: flex;
+    gap: 20px;
+}
+
+#map {
+    flex: 3;
+    height: 75vh;
+    border: 2px solid #555;
+    border-radius: 12px;
+}
+
+.info-card {
+    flex: 1;
+    background: #2d2d2d;
+    border: 2px solid #555;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+#country {
+    color: #aaa;
+}
+.hero {
+    margin-bottom: 20px;
+}
+
+.eyebrow,
+.card-type {
+    margin: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #aaa;
+}
+
+.subtitle {
+    color: #aaa;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border: 1px solid #555;
+    border-radius: 20px;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.error {
+    color: #ff6b6b;
+}
+
+.student-name {
+    font-weight: bold;
+}
+
+.legend-block {
+    margin-top: 20px;
+    border-top: 1px solid #555;
+}
+
+.legend-dot {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.blue   { background: #3388ff; }
+.orange { background: orange; }
+
+.privacy {
+    padding: 10px;
+    background: #3a3a3a;
+    border-left: 4px solid #f0c040;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+.orange-marker {
+    filter: hue-rotate(195deg) saturate(2);
+}
