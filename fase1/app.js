@@ -5,7 +5,6 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
-L.marker([51,3.60]).addTo(map);
 async function loadCities() {
     //data ophalen in "response"
     const response = await fetch('cities.json');
@@ -17,15 +16,17 @@ async function loadCities() {
 
 function showCities(cities){
     cities.forEach(city => {
-        const marker = L.marker([city.lat, city.long]).addTo(map);
+        const marker = L.marker([city.lat, city.lng]).addTo(map);
+        marker.bindPopup(city.name);
         marker.on('click', () => {
             showCity(city);
         });
     });
 };
 
-function showCity () {
-
+function showCity (city) {
+    document.querySelector('#city-name').textContent = city.name;
+    document.querySelector('#city-country').textContent = city.country;
 }
 
 loadCities();
