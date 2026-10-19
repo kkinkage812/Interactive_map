@@ -1,5 +1,10 @@
 [
   {
+   "marker": {
+      "city": "Gent",
+      "lat": "51.0543",
+      "lng": "3.7174"
+    },
     "studentName": "Daniel",
     "school": {
       "schoolName": "Het Spectrum Gent",
@@ -12,9 +17,18 @@
       "fact4": "Biedt praktijkgerichte TSO- en BSO-richtingen aan",
       "fact5": "Sectoren: personenzorg, office & retail en publiciteit"
     },
-    "circle": {"radius": 100}
+    "circle": {
+      "radius": 100,
+      "fillColor": "cyan",
+      "color": "blue"
+    }
   },
   {
+    "marker": {
+      "city": "Kyiv",
+      "lat": "50.4501",
+      "lng": "30.5234"
+    },
     "studentName": "Leerling 2",
     "school": {
       "schoolName": "Oekraïens Fysisch-Mathematisch Lyceum",
@@ -27,6 +41,10 @@
       "fact4": "Het is een internaat: de leerlingen wonen er ook",
       "fact5": "Een van de 10 beste scholen van Oekraïne volgens de examenresultaten"
     },
-    "circle": {"radius": 200}
+    "circle": {
+      "radius": 200,
+      "fillColor": "yellow",
+      "color": "orange"
+    }
   }
 ]
